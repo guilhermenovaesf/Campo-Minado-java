@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<?import javafx.scene.control.Button?>
+<?import javafx.scene.control.Label?>
+<?import javafx.scene.layout.AnchorPane?>
+<?import javafx.scene.text.Font?>
+<?import javafx.scene.text.Text?>
+
+<AnchorPane fx:id="nivelDificil" prefHeight="600.0" prefWidth="700.0" style="-fx-background-color: black; -fx-border-color: Blue;" xmlns="http://javafx.com/javafx/8.0.171" xmlns:fx="http://javafx.com/fxml/1" fx:controller="application.Controladora">
+   <children>
+      <Text fill="BLUE" layoutX="248.0" layoutY="54.0" strokeType="OUTSIDE" strokeWidth="0.0" text="PUZZLE DIFICIL" wrappingWidth="203.8955078125">
+         <font>
+            <Font name="Georgia" size="25.0" />
+         </font>
+      </Text>
+      <Button fx:id="botao0x0" disable="true" layoutX="166.0" layoutY="135.0" mnemonicParsing="false" onAction="#acaoBotao0x0" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botaoDesistir" layoutX="572.0" layoutY="26.0" mnemonicParsing="false" onAction="#acaoBotaoDesistir" prefHeight="39.0" prefWidth="100.0" style="-fx-background-color: bLACK;" text="DESISTIR" textFill="#0018ff">
+         <font>
+            <Font size="18.0" />
+         </font>
+      </Button>
+      <Label fx:id="labelNome" layoutX="39.0" layoutY="65.0" prefHeight="39.0" prefWidth="169.0" textFill="#000fff">
+         <font>
+            <Font size="18.0" />
+         </font></Label>
+      <Button fx:id="botao0x1" disable="true" layoutX="236.0" layoutY="135.0" mnemonicParsing="false" onAction="#acaoBotao0x1" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao0x2" disable="true" layoutX="306.0" layoutY="135.0" mnemonicParsing="false" onAction="#acaoBotao0x2" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao0x3" disable="true" layoutX="376.0" layoutY="135.0" mnemonicParsing="false" onAction="#acaoBotao0x3" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao0x4" disable="true" layoutX="446.0" layoutY="135.0" mnemonicParsing="false" onAction="#acaoBotao0x4" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao1x0" disable="true" layoutX="166.0" layoutY="205.0" mnemonicParsing="false" onAction="#acaoBotao1x0" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao1x1" disable="true" layoutX="236.0" layoutY="205.0" mnemonicParsing="false" onAction="#acaoBotao1x1" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao1x2" disable="true" layoutX="306.0" layoutY="205.0" mnemonicParsing="false" onAction="#acaoBotao1x2" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao1x3" disable="true" layoutX="376.0" layoutY="205.0" mnemonicParsing="false" onAction="#acaoBotao1x3" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao1x4" disable="true" layoutX="446.0" layoutY="205.0" mnemonicParsing="false" onAction="#acaoBotao1x4" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao2x0" disable="true" layoutX="166.0" layoutY="275.0" mnemonicParsing="false" onAction="#acaoBotao2x0" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao2x1" disable="true" layoutX="236.0" layoutY="275.0" mnemonicParsing="false" onAction="#acaoBotao2x1" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao2x2" disable="true" layoutX="306.0" layoutY="275.0" mnemonicParsing="false" onAction="#acaoBotao2x2" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao2x3" disable="true" layoutX="376.0" layoutY="275.0" mnemonicParsing="false" onAction="#acaoBotao2x3" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao2x4" disable="true" layoutX="446.0" layoutY="275.0" mnemonicParsing="false" onAction="#acaoBotao2x4" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao3x0" disable="true" layoutX="166.0" layoutY="345.0" mnemonicParsing="false" onAction="#acaoBotao3x0" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao3x1" disable="true" layoutX="236.0" layoutY="345.0" mnemonicParsing="false" onAction="#acaoBotao3x1" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao3x2" disable="true" layoutX="306.0" layoutY="345.0" mnemonicParsing="false" onAction="#acaoBotao3x2" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao3x3" disable="true" layoutX="376.0" layoutY="345.0" mnemonicParsing="false" onAction="#acaoBotao3x3" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao3x4" disable="true" layoutX="446.0" layoutY="345.0" mnemonicParsing="false" onAction="#acaoBotao3x4" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao4x0" disable="true" layoutX="166.0" layoutY="415.0" mnemonicParsing="false" onAction="#acaoBotao4x0" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao4x1" disable="true" layoutX="236.0" layoutY="415.0" mnemonicParsing="false" onAction="#acaoBotao4x1" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao4x2" disable="true" layoutX="306.0" layoutY="415.0" mnemonicParsing="false" onAction="#acaoBotao4x2" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao4x3" disable="true" layoutX="376.0" layoutY="415.0" mnemonicParsing="false" onAction="#acaoBotao4x3" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botao4x4" disable="true" layoutX="446.0" layoutY="415.0" mnemonicParsing="false" onAction="#acaoBotao4x4" prefHeight="70.0" prefWidth="70.0" />
+      <Button fx:id="botaoInicioPartida" layoutX="572.0" layoutY="104.0" mnemonicParsing="false" onAction="#acaoBotaoInicioPartida" text="Início" />
+      <Button fx:id="botaoResolverDificl" layoutX="516.0" layoutY="510.0" mnemonicParsing="false" onAction="#acaoBotaoResolverDificil" text="Resolver" />
+   </children>
+</AnchorPane>

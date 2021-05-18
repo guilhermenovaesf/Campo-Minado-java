@@ -1,0 +1,175 @@
+# depslib dependency file v1.0
+1544375051 source:c:\users\pc\documents\campo minado 17\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"jogo.h"
+
+1544375051 c:\users\pc\documents\campo minado 17\menu.h
+
+1544375051 c:\users\pc\documents\campo minado 17\jogo.h
+
+1544374662 source:c:\users\pc\documents\campo minado 17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"ranking.h"
+	"jogo.h"
+	"menu.h"
+
+1544374602 c:\users\pc\documents\campo minado 17\ranking.h
+
+1544375492 source:c:\users\pc\documents\campo minado 17\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	"ranking.h"
+	"menu.h"
+
+1544374602 source:c:\users\pc\documents\campo minado 17\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	"ranking.h"
+
+1544381806 source:c:\users\elias\desktop\campo minado 17\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"jogo.h"
+
+1544378529 c:\users\elias\desktop\campo minado 17\menu.h
+
+1544378529 c:\users\elias\desktop\campo minado 17\jogo.h
+
+1544358274 source:c:\users\elias\desktop\campo minado 17\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"ranking.h"
+	"jogo.h"
+	"menu.h"
+
+1544378529 c:\users\elias\desktop\campo minado 17\ranking.h
+
+1544382277 source:c:\users\elias\desktop\campo minado 17\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	"ranking.h"
+	"menu.h"
+
+1544358274 source:c:\users\elias\desktop\campo minado 17\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	"ranking.h"
+
+1544358274 source:c:\users\elias\desktop\campo minado 17.2 definitivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"ranking.h"
+	"jogo.h"
+	"menu.h"
+
+1544378529 c:\users\elias\desktop\campo minado 17.2 definitivo\ranking.h
+
+1544378529 c:\users\elias\desktop\campo minado 17.2 definitivo\jogo.h
+
+1544378529 c:\users\elias\desktop\campo minado 17.2 definitivo\menu.h
+
+1544358274 source:c:\users\elias\desktop\campo minado 17.2 definitivo\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	"ranking.h"
+
+1544364414 source:c:\users\guilherme noveas\desktop\campo minado 17.2 definitivo\jogo.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	<conio.h>
+	"menu.h"
+	"jogo.h"
+
+1544364414 c:\users\guilherme noveas\desktop\campo minado 17.2 definitivo\menu.h
+
+1544364414 c:\users\guilherme noveas\desktop\campo minado 17.2 definitivo\jogo.h
+
+1544364414 source:c:\users\guilherme noveas\desktop\campo minado 17.2 definitivo\main.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<windows.h>
+	"ranking.h"
+	"jogo.h"
+	"menu.h"
+
+1544364414 c:\users\guilherme noveas\desktop\campo minado 17.2 definitivo\ranking.h
+
+1544364414 source:c:\users\guilherme noveas\desktop\campo minado 17.2 definitivo\menu.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	"ranking.h"
+	"menu.h"
+
+1544364412 source:c:\users\guilherme noveas\desktop\campo minado 17.2 definitivo\ranking.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	<string.h>
+	<ctype.h>
+	<string.h>
+	<windows.h>
+	"ranking.h"
+
